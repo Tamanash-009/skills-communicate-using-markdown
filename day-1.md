@@ -14,6 +14,8 @@ It's simple and easy to use.
 
 ## Morning Planning
 
+<img src="https://octodex.github.com/images/minion.png" alt="Minion Octocat" width="200" align="right">
+
 - [x] Wake up early
 - [x] Have breakfast
 - [ ] Complete the Markdown exercise
