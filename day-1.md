@@ -18,3 +18,14 @@ It's simple and easy to use.
 - [x] Have breakfast
 - [ ] Complete the Markdown exercise
 - [ ] Review pull requests
+
+## Review
+
+Here's an example of a code block:
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("World")
+```
